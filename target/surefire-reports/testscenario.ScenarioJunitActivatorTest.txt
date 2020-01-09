@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: testscenario.ScenarioJunitActivatorTest
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.001 s <<< FAILURE! - in testscenario.ScenarioJunitActivatorTest
-#2: Adult not exist(/home/dzonca/IdeaProjects/Temp/caseTicket/checkCondition/target/test-classes/com/CheckAdultTest.scesim)  Time elapsed: 0.007 s  <<< ERROR!
-org.drools.scenariosimulation.backend.runner.IndexedScenarioException: #2: Scenario 'Adult not exist' failed(/home/dzonca/IdeaProjects/Temp/caseTicket/checkCondition/target/test-classes/com/CheckAdultTest.scesim)
-Caused by: org.drools.scenariosimulation.backend.runner.ScenarioException: Scenario 'Adult not exist' failed
-
