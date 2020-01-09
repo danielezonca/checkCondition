@@ -1,2 +1,8 @@
 package com;
 
+rule IsAdult
+when 
+  $p : Person ( age >= 18 )
+then
+  $p.setAdult(true);
+end
